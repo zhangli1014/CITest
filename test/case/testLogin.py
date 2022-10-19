@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 
 import unittest
-from projectTest.chapter9.test.pages.loginPage import LoginPage
+from test.pages.loginPage import LoginPage
 
 
 class TestLogin(unittest.TestCase):

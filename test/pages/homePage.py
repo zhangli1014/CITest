@@ -1,8 +1,8 @@
 # -*-coding:utf-8-*-
 
 from selenium.webdriver.common.by import By
-from projectTest.chapter9.test.pages.loginPage import LoginPage
-from projectTest.chapter9.test.common.tableOperation import TableOperation
+from test.pages.loginPage import LoginPage
+from test.common.tableOperation import TableOperation
 
 
 class HomePage(LoginPage):

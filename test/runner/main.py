@@ -2,7 +2,7 @@
 
 import os, time
 import unittest
-from projectTest.chapter9.utils.HTMLTestRunner import HTMLTestRunner
+from utils.HTMLTestRunner import HTMLTestRunner
 
 class Main:
 

@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 
 from selenium.webdriver.common.by import By
-from projectTest.chapter9.test.pages.loginPage import LoginPage
+from test.pages.loginPage import LoginPage
 
 
 class AboutPage(LoginPage):

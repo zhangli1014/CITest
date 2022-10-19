@@ -2,8 +2,8 @@
 
 import os
 from selenium.webdriver.common.by import By
-from projectTest.chapter9.test.pages.basePage import BasePage
-from projectTest.chapter9.utils.ReadConfig import ReadConfig
+from test.pages.basePage import BasePage
+from utils.ReadConfig import ReadConfig
 
 
 class LoginPage(BasePage):

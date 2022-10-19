@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 
 from time import sleep
-from projectTest.chapter9.test.common.elementIsExist import ElementIsExist
+from test.common.elementIsExist import ElementIsExist
 '''
 通过header行中的姓名查找姓名列中的【严寒】，然后单击【严寒】元素选中【严寒】所在的行。
 (1）获取姓名在header 中的index。
